@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Estudy road para iniciantes na área de dados.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto consiste em um guia simplificado dos principais tópicos que uma pessoa interessada em ingressar na área de análise de dados precisa conhecer. Seu principal objetivo é orientar aqueles que geralmente se sentem perdidos ao iniciar do zero em um campo desconhecido, ajudando assim a otimar tempo e recursos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Gamma: criação de insights e slides;
+- Microsoft Copilot: criação de insights.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Procurei abordar um tema que é bastante comum para pessoas que, assim como eu, estão em processo de transição de carreira ou que desejam ingressar em uma determinada área, que é saber exatamente o que se deve estudar. É muito comum ficarmos perdidos no início e acabamos assim perdendo tempo estudando assuntos aleatórios e sem nenhum tipo de planejamento. Após organizar as ideias e levantar alguns tópicos, utilizei o Gamma para fazer uma apresentação resumida mas bem visualmente explicativa e de fácil entendimento. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Link do projeto: https://gamma.app/docs/Bem-vindo-a-Carreira-de-Dados-nm7faiiv52puz9e
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Este projeto demonstra como é produtivo e facilitador utilizar as ferramentas de IA a nosso favor. Ao saber passar os comandos de forma correta e até mesmo corrigir as sugestões que as IAs nos dão, é possível obter informações e insights que, naquele momento, nossa mente não foi capaz de conceber, auxiliando até no desenvolvimento do nosso pensamento analítico.
